@@ -1,0 +1,15 @@
+1.Se empieza por el index.php, el cual te viene con un select/combobox en el cual vienen cargados gracias a la APi los 151 pokemon de la primera generación (ya que es la más iconica xd).
+
+2.el php listapokemon nos ayuda ha tener control y llenado en el combobox para no ir llenando de uno por uno y podamos usar todos los pokemons que existen pero no use toda la base de los pokemons porque es una simulación
+
+3.php elegirP es el que nos ayuda a consultar la APi dependiendo de la eleccion del usuario y con el ir consultando las cosas de mayor interes como son su tipo, movimientos, sprites y habilidad
+
+4. estilo css es el que nos ayuda a tener una mejor presentacion y hace que la página sea resposiva gracias a los flex los cuales interactuan dependiendo de como lo tengamos declarado.
+
+5.conexion php nos ayuda a tener el llenado de phpmyadmin, dando el usario, contraseña, etc
+
+6. Los demas php son los esqueletos de las conexiones e intentos de hacerla pero no lo logré.
+
+NOTA: Seré honesto y hubo temas los cuales nunca había prácticado y me gusto este reto ya que no pensé que fuera algo así, es la primera vez que me hacen un reto interesante y divertido.
+
+De verdad gracias por la oportunidad y el tiempo que me han brindado, gracias a este "examen" pude aprender cosas nuevas que solo las habia visto por encima, fue divertido aprender y programar y como esta en el PDF y con esa frase me quedo es: "divierte creando". Muy buen tema de examen, me dieron en mi mero mole. Saludos.
